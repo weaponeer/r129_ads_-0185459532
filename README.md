@@ -10,6 +10,10 @@ Investigations into the MB SL600 ADS2 control module
       <td><img src="./ads_images/IMG_3687.jpeg" alt="3" width = 360px height = 640px></td>
       <td><img src="./ads_images/IMG_3699.jpeg" align="right" alt="4" width = 360px height = 640px>
   </td>
+  <tr>
+      <td><img src="./ads_images/IMG_3700.jpeg" alt="3" width = 360px height = 640px></td>
+      <td><img src="./ads_images/IMG_3709.jpeg" align="right" alt="4" width = 360px height = 640px>
+  </td>
   </tr>
 </table>
 
